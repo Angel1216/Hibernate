@@ -1,0 +1,9 @@
+/home/angel/Documentos/Project/workspaces/Hibernate/SpringMVCHibernateJavaConfig/src/main/java/com/concretepage/dao/PersonDAO.java
+/home/angel/Documentos/Project/workspaces/Hibernate/SpringMVCHibernateJavaConfig/src/main/java/com/concretepage/service/PersonService.java
+/home/angel/Documentos/Project/workspaces/Hibernate/SpringMVCHibernateJavaConfig/src/main/java/com/concretepage/controller/PersonController.java
+/home/angel/Documentos/Project/workspaces/Hibernate/SpringMVCHibernateJavaConfig/src/main/java/com/concretepage/entity/Person.java
+/home/angel/Documentos/Project/workspaces/Hibernate/SpringMVCHibernateJavaConfig/src/main/java/com/concretepage/dao/IPersonDAO.java
+/home/angel/Documentos/Project/workspaces/Hibernate/SpringMVCHibernateJavaConfig/src/main/java/com/concretepage/config/AppConfig.java
+/home/angel/Documentos/Project/workspaces/Hibernate/SpringMVCHibernateJavaConfig/src/main/java/com/concretepage/config/WebAppInitializer.java
+/home/angel/Documentos/Project/workspaces/Hibernate/SpringMVCHibernateJavaConfig/src/main/java/com/concretepage/config/DBConfig.java
+/home/angel/Documentos/Project/workspaces/Hibernate/SpringMVCHibernateJavaConfig/src/main/java/com/concretepage/service/IPersonService.java

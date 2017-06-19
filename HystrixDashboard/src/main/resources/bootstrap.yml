@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: hystrixDashboard
+  cloud:
+    config:
+      uri: http://localhost:9090

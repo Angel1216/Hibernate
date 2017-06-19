@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: edgeServer
+  cloud:
+    config:
+      uri: http://localhost:9090

@@ -1,0 +1,4 @@
+sample/data/mongo/CustomerController.class
+sample/data/mongo/Customer.class
+sample/data/mongo/CustomerRepository.class
+sample/data/SampleMongoApplication.class

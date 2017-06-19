@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: apiLibros
+  cloud:
+    config:
+      uri: http://localhost:9090
